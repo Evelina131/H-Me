@@ -38,7 +38,7 @@ nav{
 }
 .link1:focus{
     box-shadow: 2px -3px 0px 2px rgb(195, 81, 81);
-    background-color: #FA6666);
+    background-color: #FA6666;
 }
 
 .link {
@@ -51,7 +51,7 @@ nav{
     color: white;
     padding: 8px 16px 8px 16px;
     border-radius: 20px;
-    box-shadow: -2px 2px 0px 2px rgb(195, 81, 81)
+    box-shadow: -3px 2px 0px 2px rgb(195, 81, 81)
 }
 .link:focus{
     box-shadow: 2px -3px 0px 2px rgb(195, 81, 81);
